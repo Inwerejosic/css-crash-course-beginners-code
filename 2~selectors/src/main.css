@@ -1,6 +1,13 @@
-#title {
-  color:brown;
+/* This are the lines I just added*/
+
+body {
+    background-color: aquamarine;
 }
+
+#title {
+    color: brown;
+}
+
 .body-text strong {
     color: blue;
 }
